@@ -74,7 +74,8 @@ I have created an interactive **Video Game Sales Dashboard** using **Tableau Pub
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
+
 
 ---
 
