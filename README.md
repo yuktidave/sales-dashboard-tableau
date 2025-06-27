@@ -1,7 +1,3 @@
-# sales-dashboard-tableau
-I created an interactive Tableau dashboard using a video game sales dataset to analyze global trends from 1980 to 2016. It highlights top games, publishers, genres, and regional sales. Users can filter by platform, year, and genre to explore patterns and insights across the gaming industry.
-
-
 # 🎮 Video Game Sales Dashboard | Tableau Public
 
 I have created an interactive **Video Game Sales Dashboard** using **Tableau Public** to explore and analyze global video game sales data from 1980 to 2020. The dashboard offers insights into top-performing games, genres, publishers, and platforms using visualizations like bar charts, area charts, bubble charts, and treemaps.
