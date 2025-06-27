@@ -97,9 +97,11 @@ I have created an interactive **Video Game Sales Dashboard** using **Tableau Pub
 
 ---
 
-## 📬 Contact : https://www.linkedin.com/in/yuktidave , yuktidave1212@gmail.com
+## 📬 Contact
 
 
 Feel free to connect if you're interested in this project or want to collaborate!
 
+- 💼 [LinkedIn](linkedin.com/in/yuktidave)
+- ✉️ yuktidave1212@gmail.com
 
